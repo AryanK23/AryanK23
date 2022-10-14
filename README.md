@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning ... The art of GitHub
+- 😄 Purpose of this repo?: ... Please ignore, it is just for fun
